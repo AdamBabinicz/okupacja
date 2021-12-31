@@ -24,8 +24,8 @@ const Featured = () => {
   return (
     <div className="featured" id="pamięć">
       <h2 className="featured-text">
-        Instytucje związane z literaturą, wydawnictwa, stowarzyszenia, szkoły
-        średnie i wyższe zmuszono do zaprzestania działalności.
+        Instytucje związane z&nbsp;literaturą, wydawnictwa, stowarzyszenia,
+        szkoły średnie i&nbsp;wyższe zmuszono do zaprzestania działalności.
       </h2>
       <p className="featured-text">
         Środowisko pisarzy zostało chaotycznie rozproszone.
