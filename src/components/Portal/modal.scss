@@ -28,8 +28,7 @@
     transform: translateY(-600px);
     transition: all 0.4s ease;
     color: #000;
-    color: green;
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-family: "Poppins", sans-serif;
 
     h2 {
@@ -42,7 +41,7 @@
 
     @media only screen and (max-width: 676px) {
       width: calc(10rem + 55vw);
-      font-size: 1.3rem;
+      font-size: 1rem;
     }
 
     &_header {
