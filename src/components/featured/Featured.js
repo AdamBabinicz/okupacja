@@ -128,13 +128,7 @@ const Featured = () => {
               kościołów, pałaców, muzeów czy bibliotek – jak i grabieży
               dokonywanych przez oddziały wojskowe, administrację okupanta,
               zdemoralizowanych maruderów ciągnących za armią, a również przez
-              miejscowych rabusiów korzystających z wojennego zamętu. Na
-              zniszczenia spowodowane działaniami wojennymi ziemie II
-              Rzeczypospolitej były narażone kilkakrotnie: najpierw w 1939 r.,
-              od 1 września po agresji wojsk niemieckich, a od 17 września –
-              Armii Czerwonej; potem od 22 czerwca 1941 r., gdy Niemcy ruszyli
-              na ZSRR; kolejny raz od lata 1944 r. do maja 1945 r., gdy siły
-              niemieckie wycofywały się pod naporem Armii Czerwonej.
+              miejscowych rabusiów korzystających z wojennego zamętu.
             </p>
             <br />
             <p>
