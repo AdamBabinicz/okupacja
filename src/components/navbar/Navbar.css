@@ -31,7 +31,8 @@
 @media only screen and (max-width: 940px) {
   .container h1 {
     font-size: 1.1rem;
-    color: green;
+    display: flex;
+    flex-direction: column;
   }
   .navbar .icon {
     display: block;
